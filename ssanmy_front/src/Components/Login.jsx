@@ -27,7 +27,8 @@ function Login() {
       <div class="overlay-container">
         <div class="social-links">
           <button class="social_btn">
-            <img src="SSANMY\ssanmy_front\src\Google_icon-Sep15.svg" alt="Login for google account"></img>
+            <img calss="social_img" src="https://projectmanager4.s3.ap-northeast-2.amazonaws.com/Google_icon-Sep15.svg" alt="logos" width={25}height={25}></img>
+            Login for google
             </button>
           </div>
       </div>
